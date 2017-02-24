@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F2F2F2</color>
+    <color name="colorPrimaryDark">#F2F2F2</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bg_normal">#209E85</color>
+    <color name="bg_focus">#1B836E</color>
+    <color name="text">#656565</color>
+
+    <color name="normal">#F2F2F2</color>
+
+    <color name="meaning">#a1a1a1</color>
+</resources>
